@@ -4,6 +4,7 @@ function Header() {
   const routes = [
     { path: '/', title: 'Home' },
     { path: '/posts', title: 'Posts' },
+    { path: '/count', title: 'Count' },
   ];
 
   return (
